@@ -196,17 +196,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="88.19832"
-     inkscape:cy="124.14195"
+     inkscape:cx="101.62768"
+     inkscape:cy="103.9389"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
-     inkscape:window-width="1200"
-     inkscape:window-height="1262"
-     inkscape:window-x="5591"
+     inkscape:window-width="1278"
+     inkscape:window-height="1351"
+     inkscape:window-x="2392"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      units="px"
@@ -308,15 +308,15 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:'Encode Sans SemiBold';-inkscape-font-specification:'Encode Sans SemiBold, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none"
-       x="13.597928"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;line-height:1.25;font-family:Aleo;-inkscape-font-specification:'Aleo, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none"
+       x="8.3722277"
        y="917.52087"
        id="text62"><tspan
          sodipodi:role="line"
          id="tspan60"
-         x="13.597928"
+         x="8.3722277"
          y="917.52087"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:21.33333397px;font-family:'Encode Sans SemiBold';-inkscape-font-specification:'Encode Sans SemiBold, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1">Write the Docs</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;font-family:Aleo;-inkscape-font-specification:'Aleo, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1">WRITE THE DOCS</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'IBM Plex Mono SemiBold';-inkscape-font-specification:'IBM Plex Mono SemiBold, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#333333;fill-opacity:1;stroke:none"
